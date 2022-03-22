@@ -1,0 +1,14 @@
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\bin\Debug\ADO_OKUL_Form.exe.config
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\bin\Debug\ADO_OKUL_Form.exe
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\bin\Debug\ADO_OKUL_Form.pdb
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.csprojAssemblyReference.cache
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.Form1.resources
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.Properties.Resources.resources
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.csproj.GenerateResource.cache
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.csproj.CoreCompileInputs.cache
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.exe
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.pdb
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.kayıt.resources
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.KayıtOl.resources
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.Menu.resources
+E:\ADO\ADO_OKUL_Form\ADO_OKUL_Form\obj\Debug\ADO_OKUL_Form.Adres.resources
